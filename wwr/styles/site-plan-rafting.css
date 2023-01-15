@@ -7,9 +7,9 @@ Fonts are separated by a & */
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #004570   ;
-  --secondary-color: #0072bb ;
+  --secondary-color: #1a6c7f ;
   --accent1-color: #f2efea;
-  --accent2-color: #987284;
+  --accent2-color: #000000;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Patua One";
@@ -21,10 +21,10 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #004570; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #004570  ;
-  --nav-link-color: #004570;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-link-color: #000000;
+  --nav-background-color: #f2efea;
+  --nav-hover-link-color: #f2efea;
+  --nav-hover-background-color: #1a6c7f;
 }
 
 
