@@ -60,7 +60,7 @@ main section img
 {
     height: 725px;
     background-color:#1a6c7f ;
-    padding: 25px 50px;
+    margin-bottom: 100px;
 }
 body
 {
@@ -78,18 +78,7 @@ h2
 {
     margin: 0;
 }
-.book
-{
-    font-family: Inter, Times, serif;
-    font-size: 18px;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
-    background-color: #004570;
-    color: #f2efea;
-    text-decoration: none;
-}
-.join
+.book, .join
 {
     font-family: Inter, Times, serif;
     font-size: 18px;
@@ -117,6 +106,7 @@ h2
 }
 .msg
 {
+    margin-top: 100px;
     background-color: #004570;
     padding: 35px;
 }
