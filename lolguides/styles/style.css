@@ -188,6 +188,7 @@ border-style: solid;
 {
     max-width: 1600px;
     margin: 0 auto;
+    background-color: #f9f3e2;
 }
 /* Footer */
 footer
@@ -215,6 +216,62 @@ footer a
 footer a:hover
 {
     color: #f2efea;
+}
+
+/* Roles 1 page css*/
+
+/* Roles 1 Banner*/
+#banner-msg p
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Roles 1 Box*/
+#box
+{
+    border-style: solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 1200px;
+    background-color: white;
+}
+#box p
+{
+    margin-left: 50px;
+    margin-right: 250px;
+    font-size: 20px;
+}
+#box h4
+{
+    font-size: 30px;
+    margin-left: 50px;
+}
+#map
+{
+    margin-top: 35px;
+}
+#map img
+{
+    margin-left: 50px;
+    float: left;
+    margin-right: 50px;
+}
+#map p
+{
+    font-size: 25px;
+    margin-top: 50px;
+}
+/* Diana image and description*/
+#diana img
+{
+    margin-left: 275px;
+}
+#diana p
+{
+    text-align: center;
 }
 /* Global Font Setup */
 h1, h2, h3, h4, h5, h6 {
